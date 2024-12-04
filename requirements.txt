@@ -42,7 +42,7 @@ apprise==1.9.0
 paho-mqtt!=2.0.*
 
 # Requires extra wheel for rPi
-cryptography~=42.0.8
+cryptography~=44.0.0
 
 # Used for CSS filtering
 beautifulsoup4
